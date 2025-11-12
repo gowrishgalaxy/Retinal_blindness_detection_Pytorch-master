@@ -1,23 +1,17 @@
-# Core ML & Data Libraries
-torch==1.13.1
-torchvision==0.14.1 # Corrected from 0.3.0 for compatibility with torch 1.13.1
-numpy==1.22.0
-pandas==0.23.4
+# --- Core Machine Learning ---
+torch>=1.13.1
+torchvision>=0.14.1
+numpy>=1.22.0
+
+# --- Application & GUI ---
 Pillow>=7.1.0
-scikit-learn==0.21.2
+reportlab>=3.6.12
 
-# Visualization
-matplotlib==3.0.2
-python-dateutil==2.7.5
-python-decouple==3.1
-python-engineio==3.11.1
-python-slugify==3.0.4
-python-socketio==2.0.0
+# --- Database & APIs ---
+mysql-connector-python>=8.0.30
+twilio>=7.16.0
 
-# Database & API
-mysql-connector-python==8.0.30
-twilio==7.16.0
-
-# For Development (Optional for running the GUI)
-notebook==6.4.12
-
+# --- Optional for Data Analysis & Visualization ---
+pandas>=0.23.4
+matplotlib>=3.0.2
+notebook>=6.4.12
