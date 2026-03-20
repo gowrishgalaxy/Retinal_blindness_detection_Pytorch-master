@@ -131,7 +131,7 @@ These steps improve model generalization and reduce overfitting.
 | Deep Learning | PyTorch          |
 | Programming   | Python           |
 | GUI           | Tkinter          |
-| Database      | MySQL (HeidiSQL) |
+| Database      | MySQL            |
 | API           | Twilio           |
 | Data Handling | NumPy, Pandas    |
 
@@ -139,10 +139,8 @@ These steps improve model generalization and reduce overfitting.
 
 ## Results
 
-* Achieved high classification accuracy after extensive training
 * Improved robustness using augmentation techniques
-* Reduced manual screening effort
-* Enabled real-time prediction through GUI
+* Reduced manual screening effort.
 
 ---
 
@@ -205,19 +203,4 @@ python blindness.py
 
 Contributions are welcome. Fork the repository and submit pull requests for improvements.
 
----
 
-## License
-
-No license specified in original repository.
-
----
-
-If you want, I will convert this into:
-• Resume project description (short bullets)
-• Portfolio version
-• LinkedIn project post
-• Viva explanation (step-by-step)
-
-[1]: https://github.com/souravs17031999/Retinal_blindness_detection_Pytorch?utm_source=chatgpt.com "souravs17031999/Retinal_blindness_detection_Pytorch"
-[2]: https://medium.com/data-science/blindness-detection-diabetic-retinopathy-using-deep-learning-on-eye-retina-images-baf20fcf409e?utm_source=chatgpt.com "Blindness detection (Diabetic retinopathy) using Deep ..."
